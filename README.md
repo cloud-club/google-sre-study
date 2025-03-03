@@ -1,6 +1,6 @@
 # 클라우드 클럽 7기 스터디 - Google-SRE-Study (작성중)
 
-![openart-image_O0XECo_3_1740999074807_raw](https://github.com/user-attachments/assets/0c672c78-aaaf-4e23-a24c-493a255dbafa)
+<img src="https://github.com/user-attachments/assets/0c672c78-aaaf-4e23-a24c-493a255dbafa" width="50%" />
 
 ## 1. Introduction
 
