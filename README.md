@@ -9,7 +9,7 @@
 > 
 > 이 스터디는 Google이 만든 SRE(Site Reliability Engineering) 개념과 실무에 대해 함께 공부하는 모임입니다. Google의 SRE 책을 통해 서비스 운영 방식과 신뢰성 관리 기법을 배우고, 실제 업무에 적용할 수 있는 인사이트를 얻어갈 수 있습니다.
 > 
-> 매주 월요일 오후 10시에 모여 각자 읽은 내용을 공유하고 토론하며, GitHub을 통해 스터디 내용을 체계적으로 관리합니다.
+> 매주 월요일 오후 10시에 모여 각자 읽은 내용을 공유하고 토론하며, GitHub을 통해 스터디 내용을 관리합니다.
 
 ---
 <br>
@@ -126,14 +126,16 @@ root/
 ### e. 그라운드 룰
 - 스터디 불참 시 Slack에 사유 공유 (필요 시 스터디장에게 DM)
 - 불참 시 5,000원 이하 부담 없는 선에서 기프티콘 쏘기
-- 스터디 참여 시 캠은 항상 켜기
 - 책은 구매 권장
+
+### f. README 작성 가이드
+- 각자 공부한 내용을 정리할 때 필요하면 `Templates/README-copy.md`를 복사하여 사용하세요. 이 템플릿은 기본적인 형식을 제공하므로, 이를 기반으로 내용을 추가하거나 수정할 수 있습니다.
 
 ## 5. Reference
 - 📚 [SRE 책 구매 링크(Yes24)](https://www.yes24.com/Product/Goods/57979286)
-- 🌐 [Google SRE 무료 영문판](https://sre.google/books/)
+- 🌐 [Google SRE 무료 영문판(온라인)](https://sre.google/books/)
 - 📄 [SRE 개념 소개 - IBM](https://www.ibm.com/kr-ko/topics/site-reliability-engineering)
-- 🎬 [SRE 소개 영상](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
+- 🎬 [SRE 소개 영상(YouTube)](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
 
 > [!WARNING]
 > 
