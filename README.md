@@ -15,7 +15,7 @@
 <br>
 
 ### 🕑 Schedule & Members
-- **기간**: 2025.03월 ~ 2025.05월 (8주)
+- **기간**: 2025.03 ~ 2025.05 (8회)
 - **시간**: 매주 월요일 오후 10시
 - **장소**: 온라인 디스코드 미팅
 - **최소 읽기 분량**: 매주 2 Chapter 이상 (추가는 자율적으로)
@@ -36,8 +36,8 @@
 > **이 스터디를 신청하기 전 알아두세요**
 > - 책의 내용이 다소 어려울 수 있습니다.
 > - 이 책은 SRE 실습보다는 Google의 SRE 철학과 방법론에 초점을 맞추고 있습니다
-> - 한국어판은 구매를 권장하며, 영문판은 무료로 제공됩니다: [SRE Books](https://sre.google/books/)
-> - 스터디 참여 시 불가피한 상황이 아니라면 캠은 키는 것을 권장합니다.
+> - 한국어판은 구매를 권장하며, 영문판은 웹사이트에서 무료로 제공됩니다: [SRE Books](https://sre.google/books/)
+> - 스터디 참여 시 불가피한 상황이 아니라면, 캠을 키는 것을 권장하고 있습니다.
 
 ---
 <br>
@@ -68,14 +68,14 @@
 
 | Week | Learning Content Title | Details of Learning Content | Completion |
 | --- | --- | --- | --- |
-| Week 1 | Part 1 - Introduction | Chapter 1, Chapter 2 |  |
-| Week 2 | Part 2 - Principles | Chapter 3, Chapter 4 |  |
-| Week 3 | Part 2 - Principles | Chapter 5, Chapter 6 |  |
-| Week 4 | Part 2 - Principles | Chapter 7, Chapter 8 |  |
-| Week 5 | Part 3 - Practices | Chapter 9, Chapter 10 |  |
-| Week 6 | Part 3 - Practices | Chapter 11, Chapter 12 |  |
-| Week 7 | Part 3 - Practices | Chapter 13, Chapter 14 |  |
-| Week 8 | Part 3 - Practices | Chapter 15, Chapter 16 |  |
+| Week 1 | Orientation |  |  |
+| Week 2 | Part 1 - Introduction | Chapter 1, Chapter 2 |  |
+| Week 3 | Part 2 - Principles | Chapter 3, Chapter 4 |  |
+| Week 4 | Part 2 - Principles | Chapter 5, Chapter 6 |  |
+| Week 5 | Part 2 - Principles | Chapter 7, Chapter 8 |  |
+| Week 6 | Part 3 - Practices | Chapter 9, Chapter 10 |  |
+| Week 7 | Part 3 - Practices | Chapter 11, Chapter 12 |  |
+| Week 8 | Part 3 - Practices | Chapter 13, Chapter 14 |  |
 
 <br>
 
