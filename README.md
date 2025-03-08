@@ -129,7 +129,7 @@ root/
 - 책은 구매 권장
 
 ### f. README 작성 가이드
-- 각자 공부한 내용을 정리할 때 필요하면 `Templates/README-copy.md`를 복사하여 사용하세요. 이 템플릿은 기본적인 형식을 제공하므로, 이를 기반으로 내용을 추가하거나 수정할 수 있습니다.
+- 각자 공부한 내용을 정리할 때 필요하면 [Templates/README-copy.md](https://github.com/cloud-club/google-sre-study/blob/main/Templates/README-copy.md)를 복사하여 사용하세요. 이 템플릿은 기본적인 형식을 제공하므로, 이를 기반으로 내용을 추가하거나 수정할 수 있습니다.
 
 ## 5. Reference
 - 📚 [SRE 책 구매 링크(Yes24)](https://www.yes24.com/Product/Goods/57979286)
