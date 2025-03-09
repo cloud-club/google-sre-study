@@ -58,6 +58,8 @@
 진윤태</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kiku99"><img src="https://avatars.githubusercontent.com/u/66311161?v=4" width="100px;" alt=""/><br /><sub><b>
 김재현</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4" width="100px;" alt=""/><br /><sub><b>
+손민우</b></sub></a><br /></td>
   </tr>
 </table>
 
