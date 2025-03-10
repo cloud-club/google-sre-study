@@ -1,5 +1,5 @@
 ---
-writer: @doxxx93
+writer: doxxx93
 date: 2025-03-09
 ---
 
