@@ -9,3 +9,7 @@ groups:
       - yureutaejin
       - kiku99
       - MarkSon-42
+    load_balancing: true
+    paths_ignore:
+      - ".github/workflows/reviewer-lottery.yaml"
+      - ".github/reviewer-lottery.yml"
