@@ -9,3 +9,4 @@ groups:
       - yureutaejin
       - kiku99
       - MarkSon-42
+    load_balancing: true
