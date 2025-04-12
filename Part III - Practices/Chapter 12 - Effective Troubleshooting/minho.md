@@ -1,24 +1,21 @@
 ---
 writer: minho
-date: {date}
+date: 2025-04-12
 ---
 
-# Chapter {chapter number} - {chapter title} refer to https://sre.google/sre-book/table-of-contents/
+# Chapter 12 - Effective Troubleshooting
 
 ## Summary
-<!-- 가볍게 요약 -->
+문제 해결 - troubleshooting - 은 분산 컴퓨팅 시스템을 운영하는 모든 사람에게 필수적인 기술입니다. 이 장에서는 효과적인 문제 해결의 과정과 일반적인 함정, 그리고 이를 극복하기 위한 방법론을 다룹니다.
 
 ## Questions
-<!-- 읽으며 궁금했던 점 -->
+1. 효과적인 문제 해결을 위해 필요한 기본 요소는 무엇일까?
+2. 문제 해결 과정에서 흔히 발생하는 함정은 무엇일까?
 
 ## Thoughts
-<!-- 내 생각 -->
+문제 해결 과정에서 시스템에 대한 이해 부족으로 인해 발생하는, 특히 이해했다고 착각하고 작업하는 경우 정말 많은 손해가 발생하는 것 같다.
 
-## Difficulties
-<!-- 어려웠던 점 -->
-
-## References
-<!-- 추가 찾아본 레퍼런스 -->
+또한 SRE는 시스템을 마치 비행기처럼, 일단 추락하지 않게 조종하고 착륙을 시키는게 최우선이고 근본 원인은 그 뒤에 찾는 것이 중요하다는 말이 있었는데 좋은 접근인 것 같다.
 
 ## Discussion Topics
-<!-- 다른 사람의 의견이 궁금한 부분 -->
+- 평소에 개발을 하거나, 트러블 슈팅을 하는 자신만의 방법이 있다면 공유해보아도 좋을 것 같다.
