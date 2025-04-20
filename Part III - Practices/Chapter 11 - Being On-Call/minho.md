@@ -1,24 +1,17 @@
 ---
 writer: minho
-date: {date}
+date: 2025-04-12
 ---
 
-# Chapter {chapter number} - {chapter title} refer to https://sre.google/sre-book/table-of-contents/
+# Chapter 11 - Being On-Call
 
 ## Summary
-<!-- 가볍게 요약 -->
+온콜은 서비스의 신뢰성과 가용성을 유지하기 위해 필수적인 역할입니다. Google의 SRE 팀은 엔지니어링을 통해 문제를 해결하고, 온콜 업무의 균형을 유지하는 것이 중요하다고 강조합니다.
 
 ## Questions
-<!-- 읽으며 궁금했던 점 -->
+1. 온콜 엔지니어가 직면하는 주요 도전 과제는 무엇일까? 
 
 ## Thoughts
-<!-- 내 생각 -->
+온콜 업무는 시스템 신뢰성을 보장하기 위한 하나의 수단이지만 결국 이 작업도 사람이 하는 것이기 때문에 상시 대응해야 한다는 스트레스가 쉽지 않을 것 같다. 적절한 보상이 꼭 필요할 것 같고, 마치 간호사가 새벽에도 상시 응급 상황에 대응하는 것과 비슷한 것 같다.
 
 ## Difficulties
-<!-- 어려웠던 점 -->
-
-## References
-<!-- 추가 찾아본 레퍼런스 -->
-
-## Discussion Topics
-<!-- 다른 사람의 의견이 궁금한 부분 -->
